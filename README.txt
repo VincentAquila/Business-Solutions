@@ -11,7 +11,9 @@ The PDF_merge_alternate_program.py is a longer and probably less 'Pythonic' vers
 
 
 Python libraries:
-	
+
+using Python 3.6
+
 os
 
 PyPDF2 - this isn't part of the Python standard library, to load to your machine use:
