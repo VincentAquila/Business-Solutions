@@ -8,6 +8,7 @@ The program for loops (using a list comprehension) through any file with a .pdf 
 
 The PDF_merge_alternate_program.py is a longer and probably less 'Pythonic' version, and it requires the user to manually enter the file names in line 14.
 
+Also included is a pdf splitter program that takes a single, multiple page PDF, and splits it along its page line, into separate, multiple PDF files.
 
 
 Python libraries:
